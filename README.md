@@ -6,6 +6,7 @@ I made this project because I wanted non-mobile users to be able to also access 
 This project also used Vue.js to easily manage tasks.
 
 Check out the site live here: https://amin-codes.github.io/SAT-Question-of-the-Day-Using-Collegeboard-API/index.html
+*UPDATE:* Collegeboard has taken down their API, so the website is no longer functional even though it is live.
 
 # Screenshots:
 
